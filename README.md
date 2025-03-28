@@ -1,6 +1,6 @@
 # Statistics Exercises - HOU (Hellenic Open University)
 
-This repository contains **statistical exercises and projects** completed as part of my coursework at the [Hellenic Open University](https://www.eap.gr) (ΕΑΠ/ΟΠΑ).  
+This repository contains **statistical exercises and projects** completed as part of my coursework at the [Athens University of Economics and Business](https://www.aueb.gr)
 
 ## Structure  
 - **`main` branch**: Only includes this `README.md` and general documentation.  
