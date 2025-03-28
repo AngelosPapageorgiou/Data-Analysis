@@ -1,4 +1,4 @@
-# Statistics Exercises 
+# Exercises in Statistics
 
 This repository contains **statistical exercises and projects** completed as part of my coursework at the [Athens University of Economics and Business](https://www.aueb.gr)
 
