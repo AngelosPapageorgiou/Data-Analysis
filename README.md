@@ -7,6 +7,6 @@
 Academic Exercise for the course "Data Analysis" at [ΟΠΑ (Athens University of Economics and Business)](https://www.aueb.gr).
 
 ## 📌 Project Description
-This branch contains my submission for Assignment 1 in the Data Analysis course. The task involved analyzing the `ObesityDataSet.csv` dataset to explore relationships between lifestyle factors and obesity levels, following 8 specific research questions provided by the instructor.
+This branch contains my submission for the Obesity_Assignment in the Data Analysis course. The task involved analyzing the `ObesityDataSet.csv` dataset to explore relationships between lifestyle factors and obesity levels, following 8 specific research questions provided by the instructor.
 
 ## 📂 Repository Structure
